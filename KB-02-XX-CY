@@ -1,0 +1,73 @@
+---
+id: KB-02-XX-CY
+parent_section: KB-02_PRP_GMP
+title: "PRP: <название>"
+kb_section: 02_PRP_GMP
+chunk_type: prerequisite_program
+doc_type: knowledge_chunk
+
+domain:
+  - prp
+  - gmp
+  - fsms
+
+regulatory_refs:
+  - EC_852_2004
+  - ISO_22000
+  - Codex_CAC_RCP_1_1969
+
+controlled_hazards:
+  - biological
+  - chemical
+  - physical
+
+haccp_relevance: prerequisite
+risk_relevance: high
+
+applicability:
+  - food_manufacturing
+  - beverage_production
+  - alcohol_production
+
+tags:
+  - PRP
+  - GMP
+
+language: ru
+version: 1.0
+status: draft
+---
+
+## Цель PRP
+
+(Зачем этот PRP существует)
+
+---
+
+## Контролируемые опасности
+
+(Какие риски устраняет)
+
+---
+
+## Реализация
+
+(Как это делается на предприятии)
+
+---
+
+## Мониторинг и контроль
+
+(Как проверяется эффективность)
+
+---
+
+## Записи и доказательства
+
+(Какие документы должен показать завод)
+
+---
+
+## Типовые несоответствия
+
+(Что чаще всего находят аудиторы)
